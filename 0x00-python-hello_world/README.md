@@ -1,1 +1,1 @@
-read me sbout python
+read me about python
