@@ -1,5 +1,6 @@
+#!/usr/bin/python3
 
-dule that contains class Base """
+""" Module that contains class Base """
 
 import json
 
